@@ -402,21 +402,21 @@
                                 </thead>
                                 <tbody>
                                     <tr class="odd gradeX">
-                                        <td>Trident</td>
-                                        <td>Internet Explorer 4.0</td>
-                                        <td>Win 95+</td>
+                                        <td>1</td>
+                                        <td>Lidia Julissa</td>
+                                        <td>95</td>
                                       
                                     </tr>
                                     <tr class="even gradeC">
-                                        <td>Trident</td>
-                                        <td>Internet Explorer 5.0</td>
-                                        <td>Win 95+</td>
+                                        <td>2</td>
+                                        <td>Juancito Caballero</td>
+                                        <td>45</td>
                                       
                                     </tr>
                                     <tr class="odd gradeA">
-                                        <td>Trident</td>
-                                        <td>Internet Explorer 5.5</td>
-                                        <td>Win 95+</td>
+                                        <td>3</td>
+                                        <td>Maria del Carme</td>
+                                        <td>56</td>
                                        
                                     </tr>
                                 </tbody>
