@@ -22,3 +22,4 @@ Route::get('/', function () {
 */
 Route::get('/','Controller@index');
 Route::get('datash','Controller@datashboard');
+Route::get('empleadosC','Controller@empleadosPerfil');
